@@ -1,5 +1,5 @@
 # MAA62052 — Glaucoma Detection using CNN
-Individual Assignment | Session 2025/2026-2
+Group Assignment | Session 2025/2026-2
 
 ## Dataset
 Hillel Yaffe Glaucoma Dataset (HYGD) — PhysioNet
